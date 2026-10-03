@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TSDMH_PACT2_7S5_MONTSERRAT</string>
+    <string name="Titulo">Splash Screen</string>
+    <string name="Mensajep1">Espere 5 seg. para cambio de pantalla</string>
+    <string name="Titulop2">Menu de opciones</string>
+    <string name="p2nombre">Ingresa tu Nombre</string>
+    <string name="p2h1nombre">Aqui tu nombre</string>
+    <string name="p2btnsaluda">Saluda</string>
+</resources>
